@@ -1,0 +1,5 @@
+package gitrebase
+
+func main() {
+
+}
